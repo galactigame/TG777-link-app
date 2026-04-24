@@ -7,7 +7,7 @@ Technical documentation for TG777, covering the web app’s blog structure, cont
 
 TG777 is easier to manage when the content layer and the product layer are treated as separate jobs. The web app handles the actual user flow. The blog app around it handles explanation, short reference content, and the pages people land on before they know exactly where to go.
 
-Users looking for the current app access page can use [TG777 link app](https://tg777onlinecasino.com/).
+Users looking for the current app access page can go to [TG777 com](https://tg777onlinecasino.com/).
 
 ### What the public site appears to include
 
